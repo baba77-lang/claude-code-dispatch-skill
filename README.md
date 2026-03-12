@@ -53,3 +53,11 @@ python3 ~/.nvm/versions/node/v24.14.0/lib/node_modules/openclaw/skills/skill-cre
   ~/workspace/claw/codex-cli-dispatch \
   ~/workspace/claw/dist-skills
 ```
+
+## Repository status
+
+This repository has been superseded by:
+
+- <https://github.com/baba77-lang/codex-cli-dispatch-skill>
+
+This repo is kept mainly as a migration/compatibility path for older links and references.
